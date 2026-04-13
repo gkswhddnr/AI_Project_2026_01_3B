@@ -35,7 +35,27 @@
 ![image](https://github.com/gkswhddnr/AI_Project_2026_01_3B/blob/main/CONTROLNET/00120-3191706546.png?raw=true)
 ![image](https://github.com/gkswhddnr/AI_Project_2026_01_3B/blob/main/CONTROLNET/00130-3541369770.png?raw=true)
 
+## LineArt
+![imgae](https://raw.githubusercontent.com/gkswhddnr/AI_Project_2026_01_3B/3b0a70254b099361a2dbc9beb0c73e4b3a052398/CONTROLNET/LineArt/00002-1114412274.png)
+![image](https://raw.githubusercontent.com/gkswhddnr/AI_Project_2026_01_3B/3b0a70254b099361a2dbc9beb0c73e4b3a052398/CONTROLNET/LineArt/tmpd1qxxcx_.png)
+
+## Normalbae
+
+![imgae](https://raw.githubusercontent.com/gkswhddnr/AI_Project_2026_01_3B/3b0a70254b099361a2dbc9beb0c73e4b3a052398/CONTROLNET/Normalbae/00013-4268555719.png)
+![image](https://raw.githubusercontent.com/gkswhddnr/AI_Project_2026_01_3B/3b0a70254b099361a2dbc9beb0c73e4b3a052398/CONTROLNET/Normalbae/tmp5exz2bxx.png)
+![image](https://raw.githubusercontent.com/gkswhddnr/AI_Project_2026_01_3B/3b0a70254b099361a2dbc9beb0c73e4b3a052398/CONTROLNET/Normalbae/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-04-13%20144046.png)
+
+## Scribble
+
+![imgae](https://raw.githubusercontent.com/gkswhddnr/AI_Project_2026_01_3B/3b0a70254b099361a2dbc9beb0c73e4b3a052398/CONTROLNET/Scribble/00011-2207231487.png)
+![image](https://raw.githubusercontent.com/gkswhddnr/AI_Project_2026_01_3B/3b0a70254b099361a2dbc9beb0c73e4b3a052398/CONTROLNET/Scribble/tmp_q7wiu_w.png)
+
+## Shuffle
+
+![imgae](https://raw.githubusercontent.com/gkswhddnr/AI_Project_2026_01_3B/3b0a70254b099361a2dbc9beb0c73e4b3a052398/CONTROLNET/Shuffle/00013-1565608478.png)
+![image](https://raw.githubusercontent.com/gkswhddnr/AI_Project_2026_01_3B/3b0a70254b099361a2dbc9beb0c73e4b3a052398/CONTROLNET/Shuffle/tmpfqaxgypj.png)
+
 ## SoftEdge
 
-![imgae]()
-![image]()
+![imgae](https://raw.githubusercontent.com/gkswhddnr/AI_Project_2026_01_3B/3b0a70254b099361a2dbc9beb0c73e4b3a052398/CONTROLNET/SoftEdge/00002-3960249795.png)
+![image](https://raw.githubusercontent.com/gkswhddnr/AI_Project_2026_01_3B/3b0a70254b099361a2dbc9beb0c73e4b3a052398/CONTROLNET/SoftEdge/tmpolr4vcym.png)
